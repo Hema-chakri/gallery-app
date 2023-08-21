@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbnailImages-container {
+  display: flex;
+}
+
+.thumbnail-image {
+  height: 350px;
+  width: 350px;
+}
+
+.images-container {
+  display: flex;
+}
+
+.large-image {
+  list-style-type: none;
+}

@@ -1,0 +1,9 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+}
+
+.image {
+  margin-right: 15px;
+  opacity: 0.5;
+}
